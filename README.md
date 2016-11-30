@@ -7,6 +7,8 @@ An iOS app that calculates the tip of a bill amount, written as a prework for Co
 ###[Movie Guide](https://github.com/SangSaephan/MovieGuide)
 A movie guide app that displays an overview of movies currently in theaters; written in Swift as a tutorial project for MobileSpace.
 
+- [Published on App Store](https://itunes.apple.com/us/app/movies-101/id1178902071?ls=1&mt=8)
+
 ![](MovieGuide.gif)
 
 ###[To-Do List](https://github.com/SangSaephan/To-Do-List)
