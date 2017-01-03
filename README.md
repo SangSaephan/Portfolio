@@ -1,4 +1,9 @@
 #Demo:
+###[Retro Calculator](https://github.com/SangSaephan/RetroCalculator)
+A retro-style calculator; written in Swift as a tutorial project for Devslopes.
+
+![](RetroCalculator.gif)
+
 ###[Extra Tips](https://github.com/SangSaephan/CodePath-ExtraTips)
 An iOS app that calculates the tip of a bill amount, written as a prework for CodePathUniversity.
 
