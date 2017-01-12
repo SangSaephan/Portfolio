@@ -1,5 +1,10 @@
 #Demo:
 ###[Retro Calculator](https://github.com/SangSaephan/RetroCalculator)
+An app that displays a list of things you've always dreamed of having; written in Swift as a tutorial project for Devslopes.
+
+![](DreamLister.gif)
+
+###[Retro Calculator](https://github.com/SangSaephan/RetroCalculator)
 A retro-style calculator; written in Swift as a tutorial project for Devslopes.
 
 ![](RetroCalculator.gif)
