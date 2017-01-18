@@ -1,4 +1,9 @@
 #Demo:
+###[Flicks](https://github.com/SangSaephan/CodePath-Flicks)
+A movies app using the The Movie Database API; written in Swift as a tutorial project for CodePath.
+
+![](Flicks.gif)
+
 ###[Dream Lister](https://github.com/SangSaephan/RetroCalculator)
 An app that displays a list of things you've always dreamed of having; written in Swift as a tutorial project for Devslopes.
 
