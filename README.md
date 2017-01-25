@@ -1,4 +1,9 @@
 #Demo:
+###[Rainy Shine](https://github.com/SangSaephan/RainyShine)
+An app that displays the current weather, as well as the next nine days, based on the user's location; written in Swift as a tutorial project for Devslopes.
+
+![](RainyShine.gif)
+
 ###[Flicks](https://github.com/SangSaephan/CodePath-Flicks)
 A movies app using the The Movie Database API; written in Swift as a tutorial project for CodePath.
 
