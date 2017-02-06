@@ -1,4 +1,9 @@
 #Demo:
+###[Pokedex](https://github.com/SangSaephan/Pokedex)
+An app that displays a list of Pokemon, along with their information (e.g. bio and attack moves); written in Swift as a tutorial project for Devslopes.
+
+![](Pokedex.gif)
+
 ###[Rainy Shine](https://github.com/SangSaephan/RainyShine)
 An app that displays the current weather, as well as the next nine days, based on the user's location; written in Swift as a tutorial project for Devslopes.
 
