@@ -1,4 +1,9 @@
 #Demo:
+###[Yelp](https://github.com/SangSaephan/CodePath-Yelp)
+A Yelp search app using the Yelp API; written in Swift as a tutorial project for CodePath.
+
+![](Yelp.gif)
+
 ###[Pokedex](https://github.com/SangSaephan/Pokedex)
 An app that displays a list of Pokemon, along with their information (e.g. bio and attack moves); written in Swift as a tutorial project for Devslopes.
 
